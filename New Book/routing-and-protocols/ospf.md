@@ -1,10 +1,10 @@
 ---
-description: OSPF- Open Shortest Path First
+description: Open Shortest Path First
 ---
 
 # OSPF
 
-It is a link-state routing protocol used in internet protocol networks. It is designed to move routing information within a single autonomous system AS in an IP network.&#x20;
+OSPF : is a widely used interior gateway protocol for routing within an autonomous system in IP networks. It is a link-state routing protocol, which means it maintains a map of the network topology and uses the Dijkstra algorithm to compute the shortest path to each destination.
 
 
 
@@ -69,3 +69,38 @@ it supports a hierarchical structure using areas. The network is divided into di
 * Standard Area :  A regular  ospf area that has no special attribute ospf AS.
 * Totally stubby Area : A cisco -Special feature , it does not receive external routes or inter-area routers, using only a default route.
 * Not-so-stubby Area : similar to a stub area but can import autonomous system external routes and redistribute them.
+
+
+
+### Key Features of OSPF&#x20;
+
+
+
+* Link-state Advertisement
+* Areas
+* Route Calculation
+* Metric&#x20;
+* Convergence
+* Authentication
+
+#### OSPF packets types&#x20;
+
+
+
+* Hello Packet
+* Database Description Packet
+* Link-state Request Packet
+* Link-State update packet
+* Link-state Acknowledgment packet.
+
+
+
+### OSPF Operation Steps&#x20;
+
+
+
+1. Neighbor Discovery : Routers send hello packets to discover and form adjacencies with neighbors.
+2. Data Synchronization : Router exchange DBD packets to ensure they have the same link-state information.
+3. Link-state Advertisement : Router flood LSAs to update the network topology information
+4. Shortest Path Calculation : Each router the Dijkstra algorithm to compute the shortest path to every network destination.
+5. Routing table Update : based on shortest path tree , routers update their routing tables.
