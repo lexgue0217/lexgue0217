@@ -13,6 +13,8 @@
 
 ## IP  Addressing <a href="#192.168.1.1" id="192.168.1.1"></a>
 
+* [Super Netting](192.168.1.1/super-netting.md)
+* [Subnetting](192.168.1.1/subnetting.md)
 * [IP v6](192.168.1.1/ip-v6.md)
 * [IP v4](192.168.1.1/ip-v4.md)
 * [Introduction](192.168.1.1/introduction.md)
