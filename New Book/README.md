@@ -14,6 +14,9 @@ description: Index
 * OSPF
 * BGP
 * EIGRP
+* DHCP
+* STATIC
+* DEFAULT ROUTING
 
 
 
