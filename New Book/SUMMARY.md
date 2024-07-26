@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Routing and Protocols](README.md)
-  * [DHCP](routing-and-protocols/dhcp.md)
   * [Default Routing](routing-and-protocols/default-routing.md)
   * [Static](routing-and-protocols/static.md)
   * [Routing and types](routing-and-protocols/routing-and-types.md)
@@ -10,3 +9,4 @@
   * [OSPF](routing-and-protocols/ospf.md)
   * [RIP](routing-and-protocols/rip.md)
   * [Introduction](routing-and-protocols/introduction.md)
+  * [DHCP](routing-and-protocols/dhcp.md)
