@@ -75,5 +75,5 @@ the route takes effect when no other route is available for an ip destination ad
 {% hint style="info" %}
 Static Routing Practical
 
-<img src="../.gitbook/assets/Screenshot 2024-07-06 234152.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot 2024-07-06 234152.png" alt="" data-size="original">
 {% endhint %}

@@ -21,4 +21,4 @@ network 11.0.0.0                       network 11.0.0.0
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-07-07 002124.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-07-07 002124.png" alt=""><figcaption></figcaption></figure>
