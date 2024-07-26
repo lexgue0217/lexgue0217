@@ -10,3 +10,8 @@
   * [RIP](routing-and-protocols/rip.md)
   * [Introduction](routing-and-protocols/introduction.md)
   * [DHCP](routing-and-protocols/dhcp.md)
+* [Internet Protocol](internet-protocol/README.md)
+  * [IP v4](internet-protocol/ip-v4.md)
+  * [IP v6](internet-protocol/ip-v6.md)
+  * [Super Netting](internet-protocol/super-netting.md)
+  * [Subnetting](internet-protocol/subnetting.md)
