@@ -104,3 +104,7 @@ it supports a hierarchical structure using areas. The network is divided into di
 3. Link-state Advertisement : Router flood LSAs to update the network topology information
 4. Shortest Path Calculation : Each router the Dijkstra algorithm to compute the shortest path to every network destination.
 5. Routing table Update : based on shortest path tree , routers update their routing tables.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-07-26 225601.png" alt=""><figcaption></figcaption></figure>
