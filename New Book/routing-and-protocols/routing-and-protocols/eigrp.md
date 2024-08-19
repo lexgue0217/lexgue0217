@@ -39,3 +39,15 @@ EIGRP (Enhanced Interior Gateway Routing Protocol) is a dynamic routing protocol
 #### Summary
 
 EIGRP is a reliable, efficient, and scalable routing protocol that provides fast convergence and is easy to manage. It is commonly used in enterprise networks where Cisco equipment is prevalent.
+
+
+
+```
+// router eigrp 10
+network 10.0.0.0 255.255.255.0
+network 11.0.0.0 255.255.255.0
+netwokr 12.0.0.0 255.255.255.0
+netwokr 13.0.0.0 255.255.255.0
+do wr
+
+```
