@@ -42,3 +42,15 @@ BGP stands for Border Gateway Protocol, which is the protocol used to exchange r
 * **BGP Authentication:** Uses MD5 or more advanced techniques to secure BGP sessions.
 
 BGP is a crucial component of the internet's routing infrastructure, ensuring that data can travel efficiently and reliably between different networks across the globe.
+
+
+
+```
+// Router bgp 50
+bgp router-id 1.1.1.1
+neighbor 10.0.0.2 remote-as 10
+network 192.168.1.0 mask 255.255.255.0
+neighbor 11.0.0.2 remote-as 20
+neighbor 12.0.0.2 remote-as 20
+
+```
