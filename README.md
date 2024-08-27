@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lexgue0217
 - 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning Logrythm , Splunk , CEH v12 and CCNA
+- 🌱 I’m currently learning  Splunk , CEH v12 and CCNA
 - 💞️ I’m looking to collaborate on who wants to learn cyber security
 - 📫 How to reach me social meadia or discord
-- 😄 Pronouns: lezgue
+- 😄 Pronouns: lazye
 - ⚡ Fun fact: nothing
 
 <!---
